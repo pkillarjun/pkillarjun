@@ -1,2 +1,3 @@
-- Hi, My old account 0x34d is flagged by the GitHub team, so I will be using this one instead.
-- Hi @github, please don't flag me;
+- Hi @github, please don't flag me.
+- Hi, my old account 0x34d was flagged by the GitHub team, so I will be using this one instead.
+- This account's goal is to strategically maintain OSS-Fuzz integration. Apologies for any inconvenience.
