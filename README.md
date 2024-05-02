@@ -1,2 +1,3 @@
 - Hello :)
-Going Dark;
+- Going Dark;
+- Not so serious. If you want to be serious, ask your government to stop the printing of fiat currency(scam).
