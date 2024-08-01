@@ -1,2 +1,2 @@
 - Hello :)
-- dbd7233f3682762163a90adbc1431ca1a6bc5babe803ecc521eb514aecf9ab66
+- Artificial Intellignce is nothing compared to Natural Stupidity.
