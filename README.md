@@ -1,2 +1,3 @@
 - Hello :)
 - Artificial Intellignce is nothing compared to Natural Stupidity.
+- Keep it simple, stupid.
