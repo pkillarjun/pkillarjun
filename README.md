@@ -1,1 +1,2 @@
-
+- Hello friend :)
+- Never do bug bounty on fucking Immunefi;
