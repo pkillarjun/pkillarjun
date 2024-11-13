@@ -1,2 +1,2 @@
 - Hello friend :)
-- Never do bug bounty on fucking Immunefi;
+- Immunefi is a scam, just like any other crypto project.
