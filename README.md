@@ -1,2 +1,3 @@
 - Hello friend :)
 - Immunefi is a scam, just like any other crypto project.
+- Almost alive...
