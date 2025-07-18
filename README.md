@@ -1,3 +1,4 @@
 - Hello friend :)
 - Immunefi is a scam, just like any other crypto project.
 - Almost alive...
+- We will achieve AGI, the day a LLM can distinguish between satire and a request.
